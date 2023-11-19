@@ -3,6 +3,7 @@
 ## project overview 
 Marketing companies want to run successful campaigns, but the market is complex and several options can work. So normally they tun A/B tests, that is a randomized experimentation process wherein two or more versions of a variable (web page, page element, banner, etc.) are shown to different segments of people at the same time to determine which version leaves the maximum impact and drive business metrics.
 
+## Dataset https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing/download?datasetVersionNumber=1
 ## Goal 
 
 The companies are interested in answering two questions:
