@@ -15,10 +15,10 @@ The idea of the dataset is to analyze the groups, find if the ads were successfu
 
 ## Data dictionary:
 
-Index: Row index
-user id: User ID (unique)
-test group: If "ad" the person saw the advertisement, if "psa" they only saw the public service announcement
-converted: If a person bought the product then True, else is False
-total ads: Amount of ads seen by person
-most ads day: Day that the person saw the biggest amount of ads
-most ads hour: Hour of day that the person saw the biggest amount of ads
+1. Index: Row index
+2. user id: User ID (unique)
+3. test group: If "ad" the person saw the advertisement, if "psa" they only saw the public service announcement
+4. converted: If a person bought the product then True, else is False
+5. total ads: Amount of ads seen by person
+6. most ads day: Day that the person saw the biggest amount of ads
+7. most ads hour: Hour of day that the person saw the biggest amount of ads
